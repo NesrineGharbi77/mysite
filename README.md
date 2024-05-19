@@ -84,9 +84,6 @@ Ce projet est une application web full stack de commerce électronique, dévelop
 
 Les contributions sont les bienvenues. Veuillez soumettre une pull request pour toute amélioration ou nouvelle fonctionnalité.
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
